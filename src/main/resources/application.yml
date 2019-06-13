@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: configClient
+
+server:
+  port: 8002
