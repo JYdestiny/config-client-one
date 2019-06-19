@@ -1,4 +1,4 @@
-package com.zjy.cloud.clientOne;
+package com.zjy.cloud.clientTwo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
