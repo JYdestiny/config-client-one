@@ -1,6 +1,6 @@
 spring:
   application:
-    name: configClient
+    name: configClient1
 
 server:
   port: 8002
